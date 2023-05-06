@@ -92,15 +92,14 @@ body{
     
 }
 
-.second-section .price{
+.second-section span{
     opacity: 0.55;
-    margin-bottom: .3125rem;
-  
+    font-size: 15px;
 }
 
-.second-section span{
+.second-section .price{
     color: var(--white);
-    margin-bottom: 2rem;
+    margin-bottom: 10px;
     font-size: 2rem;
     margin-right: .625rem;
     opacity: 1;
